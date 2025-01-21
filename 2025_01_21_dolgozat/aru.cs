@@ -57,7 +57,6 @@ namespace _2025_01_21_dolgozat
             this.Name = "aru";
             this.Size = new System.Drawing.Size(198, 182);
             this.ResumeLayout(false);
-
         }
     }
 

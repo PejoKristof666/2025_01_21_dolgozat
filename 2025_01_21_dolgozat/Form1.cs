@@ -20,10 +20,7 @@ namespace _2025_01_21_dolgozat
         public void Start()
         {
             szamitogep oneSzamitogep = new szamitogep() { ProcessorType = "AMD", MemorySize = 1024, OperatingSystemName = "Windows" };
-            szamitogep twoSzamitogep = new szamitogep() { ProcessorType = "IDK", MemorySize = 2048, OperatingSystemName = "Linux" };
             this.Controls.Add(oneSzamitogep);
-            this.Controls.Add(twoSzamitogep);
-            
         }
     }
 }
