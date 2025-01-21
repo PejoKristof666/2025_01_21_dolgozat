@@ -12,6 +12,7 @@ namespace _2025_01_21_dolgozat
 {
     public partial class Form1 : Form
     {
+        //
         public Form1()
         {
             InitializeComponent();
